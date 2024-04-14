@@ -12,7 +12,7 @@ A Full Stack Library App using React and Spring Boot.
 ### NPM packages
 - React Router
 - Axios
-- Boostrap
+- Bootstrap
 - React Material UI Carousel
 - Font Awesome
 
@@ -27,4 +27,6 @@ A Full Stack Library App using React and Spring Boot.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![home](https://raw.githubusercontent.com/walidbouguerra/biblio/main/screenshots/book.PNG)
+![add book](https://raw.githubusercontent.com/walidbouguerra/biblio/main/screenshots/add-book.PNG)  
+![update book](https://raw.githubusercontent.com/walidbouguerra/biblio/main/screenshots/update-book.PNG)  
